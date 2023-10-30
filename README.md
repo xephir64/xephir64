@@ -1,4 +1,17 @@
-### Hi there 👋
+👋 Hi, I'm Arnaud
+
+- 🌱 I’m currently learning Rust and Nix
+
+## Languages & Tools
+
+[![Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,java,typescript,linux,bash,vscode,neovim&theme=light&perline=6)](https://skillicons.dev)
+
+<details>
+  <summary>Github Stats </summary>
+  
+  <a href="#">![StatsLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=xephir64&layout=compact)</a>
+</details>
+
 
 <!--
 **xephir64/xephir64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
