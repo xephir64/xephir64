@@ -1,7 +1,5 @@
 👋 Hi, I'm Arnaud
 
-- 🌱 I’m currently learning Rust and Nix
-
 ## Languages & Tools
 
 [![Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,java,typescript,linux,bash,vscode,neovim&theme=light&perline=6)](https://skillicons.dev)
