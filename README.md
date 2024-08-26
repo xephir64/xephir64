@@ -2,7 +2,7 @@
 
 ## Things I use 
 
-###  Languages
+### 💻 Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white"/>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-### Tools
+### 🛠 Tools
 
 <p>
   <img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=archlinux&logoColor=white"/>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white"/>
 </p>
 
-### I am currently learning
+### 🚀 I am currently learning
 
 <p>
   <img src="https://img.shields.io/badge/OpenGL-blue?style=for-the-badge&logo=opengl&logoColor=white"/>
