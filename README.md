@@ -1,6 +1,6 @@
 👋 Hi, I'm Arnaud
 
-## Things I use 
+## 🔭 Things I use 
 
 ### 💻 Languages
 
@@ -22,10 +22,10 @@
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white"/>
 </p>
 
-### 🚀 I am currently learning
+## 🚀 I am currently learning
 
 <p>
-  <img src="https://img.shields.io/badge/OpenGL-blue?style=for-the-badge&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenGL-white?style=for-the-badge&logo=opengl&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
