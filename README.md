@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
 ### 🛠 Tools
@@ -18,7 +17,6 @@
 <p>
   <img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCodium-blue?style=for-the-badge&logo=vscodium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NeoVim-green?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white"/>
 </p>
 
