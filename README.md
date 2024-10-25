@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=25F707&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=25F707&center=true&vCenter=true&multiline=true&width=1000&lines=Welcome+to+my+GitHub+page!)](https://git.io/typing-svg)
+
+<div align="center">
+<a href="#"><img width="50%" height="auto" align="center" src="./assets/lain1.gif"/></a>
+</div>
 
 ## About me
 
@@ -37,7 +41,7 @@ My name is Arnaud, and I'm interested in operating systems, low-level programmin
 
 
 ## 📊 GitHub Stats
-<a href="#">![StatsLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=xephir64&layout=compact)</a>
+<a href="#">![StatsLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=xephir64&layout=compact&theme=blue-green&hide=html,css)</a>
 
 <!--
 **xephir64/xephir64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
