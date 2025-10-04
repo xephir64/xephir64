@@ -14,16 +14,19 @@ My name is Arnaud, and I'm interested in operating systems, low-level programmin
 <p>
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 ### 🛠 Tools
 <p>
+  <img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=archlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NeoVim-green?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NeoVim-green?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
@@ -36,7 +39,6 @@ My name is Arnaud, and I'm interested in operating systems, low-level programmin
 ## 🚀 Currently Learning
 <p>
   <img src="https://img.shields.io/badge/OpenGL-white?style=for-the-badge&logo=opengl&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 
