@@ -43,7 +43,7 @@ My name is Arnaud, and I'm interested in operating systems, low-level programmin
 
 
 ## 📊 GitHub Stats
-<a href="#">![StatsLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=xephir64&layout=compact&theme=blue-green&hide=html,css)</a>
+<a href="#">![StatsLanguages](https://github-stats-extended.vercel.app/api/top-langs/?username=xephir64&layout=compact&theme=blue-green&hide=html,css)</a>
 
 <!--
 **xephir64/xephir64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
